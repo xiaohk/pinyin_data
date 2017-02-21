@@ -36,9 +36,9 @@ with open("unihan/Unihan_Readings.txt", 'r') as fp:
         elif words[1] == "kXHC1983" or words[1] == "kHanyuPinyin":
             pinyin_list = words[2][words[2].find(':') + 1 : ].split(',')
             if uni in hanzi:
-                new_set = set(hanzi[uni])
-                new_set.update(pinyin_list)
-                hanzi[uni] = list(new_set)
+                # Can't directly update set, want to keep kMandarin as the first
+                diff_set = set(pinyin_list) - set(hanzi[uni])
+                hanzi[uni] = hanzi[uni] + list(diff_set)
             else:
                 hanzi[uni] = pinyin_list 
 
