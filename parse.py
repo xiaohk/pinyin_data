@@ -31,7 +31,11 @@ with open("unihan/Unihan_Readings.txt", 'r') as fp:
         uni = format_u(words[0])
         # The most common used reading, keep it as the first entry of value list
         if words[1] == "kMandarin":
-            hanzi[uni] = [words[2]]
+            if uni in hanzi:
+                if words[2] not in hanzi[uni]:
+                    hanzi[uni] = [words[2]] + hanzi[uni]
+            else:            
+                hanzi[uni] = [words[2]]
 
         elif words[1] == "kXHC1983" or words[1] == "kHanyuPinyin":
             pinyin_list = words[2][words[2].find(':') + 1 : ].split(',')
@@ -41,7 +45,7 @@ with open("unihan/Unihan_Readings.txt", 'r') as fp:
                 hanzi[uni] = hanzi[uni] + list(diff_set)
             else:
                 hanzi[uni] = pinyin_list 
-
+            
 # Dump the dictionary
 if args.yaml:
     with open("data/pinyin.yaml", 'w') as stream:
