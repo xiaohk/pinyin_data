@@ -1,6 +1,7 @@
 from yaml import dump as yaml_dump
 from json import dump as json_dump
 import argparse
+import re
 
 # Command line argument setting
 parser = argparse.ArgumentParser(description='Parse some pinyin.')
@@ -58,16 +59,19 @@ def parse_pinyin():
                 pinyin_list = words[2][words[2].find(':') + 1 : ].split(',')
                 update_pinyin(uni, pinyin_list, result)
 
-    return result
+            elif words[1] == "kHanyuPinlu":
+                pinyin_list = [re.sub('\(.*?\)', '', p) for p in words[2:]]
+                update_pinyin(uni, pinyin_list, result)
 
+    return result
 #def parse_jyutping()
 result = parse_pinyin()
                 
 # Dump the dictionary
 if args.yaml:
     with open("data/pinyin.yaml", 'w') as stream:
-        yaml_dump(result, stream)
+        yaml_dump(result, stream, allow_unicode = True)
 
 if (not args.json and not args.yaml and not args.debug) or args.json:
     with open("data/pinyin.json", 'w') as stream:
-        json_dump(result, stream, indent=4)
+        json_dump(result, stream, indent=4, ensure_ascii = False)

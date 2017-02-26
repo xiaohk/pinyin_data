@@ -1,0 +1,1497 @@
+<!-- Get from : http://www.fuhaoku.com/duoyinzi/ -->
+<tr>
+    <td class="bg">阿</td>
+    <td>【ā】阿罗汉 阿姨　【ē】阿附 阿胶</td>
+</tr>
+<tr>
+    <td class="bg">腌</td>
+    <td>【ā】腌臜　【yān】腌菜</td>
+</tr>
+<tr>
+    <td class="bg">挨</td>
+    <td>【āi】挨个 挨近　【ái】挨打 挨说</td>
+</tr>
+<tr>
+    <td class="bg">拗</td>
+    <td>【ào】拗口令　【niǜ】执拗 拗不过　【ǎo】拗断</td>
+</tr>
+<tr>
+    <td class="bg">熬</td>
+    <td>【āo】熬菜　【áo】熬粥 煎熬</td>
+</tr>
+<tr>
+    <th colspan="2">B 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">扒</td>
+    <td>【bā】扒开 扒拉 扒墙头　【pá】扒手 扒草 扒鸡</td>
+</tr>
+<tr>
+    <td class="bg">把</td>
+    <td>【bǎ】把握 把持 把柄　【bà】印把 刀把 话把儿</td>
+</tr>
+<tr>
+    <td class="bg">蚌</td>
+    <td>【bàng】蛤蚌　【bèng】蚌埠</td>
+</tr>
+<tr>
+    <td class="bg">薄</td>
+    <td>【báo】（口语单用） 纸薄　【bó】（书面组词） 单薄 稀薄</td>
+</tr>
+<tr>
+    <td class="bg">堡</td>
+    <td>【bǎo】碉堡 堡垒　【bǔ】瓦窑堡 吴堡　【pù】十里堡</td>
+</tr>
+<tr>
+    <td class="bg">暴</td>
+    <td>【bào】暴露 暴躁　【pù】一暴十寒</td>
+</tr>
+<tr>
+    <td class="bg">背</td>
+    <td>【bèi】脊背 背景　【bēi】背包 背枪</td>
+</tr>
+<tr>
+    <td class="bg">奔</td>
+    <td>【bēn】奔跑 奔波　【bèn】投奔</td>
+</tr>
+<tr>
+    <td class="bg">臂</td>
+    <td>【bì】手臂 臂膀　【bei】胳臂</td>
+</tr>
+<tr>
+    <td class="bg">辟</td>
+    <td>【bì】复辟 辟邪　【pì】开辟 精辟 辟谣</td>
+</tr>
+<tr>
+    <td class="bg">扁</td>
+    <td>【biǎn】扁担 扁豆 扁铲 扁桃体　【piān】扁舟</td>
+</tr>
+<tr>
+    <td class="bg">便</td>
+    <td>【biàn】方便便笺 便宜（方便合适）　【pián】便宜（价格低）</td>
+</tr>
+<tr>
+    <td class="bg">膀</td>
+    <td>【bǎng】肩膀 臂膀　【pāng】膀肿 脸膀了　【páng】膀胱</td>
+</tr>
+<tr>
+    <td class="bg">磅</td>
+    <td>【bàng】磅秤　【páng】磅礴</td>
+</tr>
+<tr>
+    <td class="bg">绷</td>
+    <td>【bēng】绷紧 绷直 绷飞了 绷带坑绷拐骗　【běng】绷劲儿 绷着脸　【bèng】绷瓷儿</td>
+</tr>
+<tr>
+    <td class="bg">骠</td>
+    <td>【biāo】黄骠马　【piào】骠勇</td>
+</tr>
+<tr>
+    <td class="bg">瘪</td>
+    <td>【biē】瘪三　【biě】干瘪</td>
+</tr>
+<tr>
+    <td class="bg">屏</td>
+    <td>【bīng】屏营（书面：惶恐状）　【bǐng】屏息屏气 屏弃 屏除 屏退　【píng】屏幕 屏风 屏障 屏蔽</td>
+</tr>
+<tr>
+    <td class="bg">剥</td>
+    <td>【bō】（书面组词）剥削（xuē） 剥离 剥蚀 剥夺 剥落　【bāo】（口语单用） 剥皮</td>
+</tr>
+<tr>
+    <td class="bg">泊</td>
+    <td>【bó】淡泊 停泊 漂泊　【pō】湖泊】血泊</td>
+</tr>
+<tr>
+    <td class="bg">伯</td>
+    <td>【bó】老伯伯父　【bǎi】大伯子（夫兄）</td>
+</tr>
+<tr>
+    <td class="bg">簸</td>
+    <td>【bǒ】颠簸　【bò】簸箕</td>
+</tr>
+<tr>
+    <td class="bg">膊</td>
+    <td>【bó】赤膊　【bo】胳膊</td>
+</tr>
+<tr>
+    <td class="bg">卜</td>
+    <td>【bo】萝卜　【bǔ】占卜 卜辞 预卜 卜筮</td>
+</tr>
+<tr>
+    <th colspan="2">C 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">伧</td>
+    <td>【cāng】言语伧俗　【chen】寒伧</td>
+</tr>
+<tr>
+    <td class="bg">藏</td>
+    <td>【cáng】矿藏 躲藏 藏拙　【zàng】宝藏 藏蓝 藏医藏历 川藏</td>
+</tr>
+<tr>
+    <td class="bg">曾</td>
+    <td>【céng】曾经 曾几何时　【zēng】曾祖 曾孙</td>
+</tr>
+<tr>
+    <td class="bg">噌</td>
+    <td>【cēng】噌的一声　【chēng】噌吰（钟鼓声）</td>
+</tr>
+<tr>
+    <td class="bg">差</td>
+    <td>【chā】（书面组词）偏差 差错 差池差可告慰 差强人意 差之毫厘 差别 差价 差异 差失 差误　【chà】（口语单用）差点儿 差劲　【chāi】出差 听差 差遣 差使差役　【cī】参差</td>
+</tr>
+<tr>
+    <td class="bg">禅</td>
+    <td>【chán】禅师 禅宗 禅杖 坐禅　【shàn】禅让 封禅</td>
+</tr>
+<tr>
+    <td class="bg">颤</td>
+    <td>【chàn】颤动 颤抖 颤音 颤悠　【zhàn】颤栗 打颤</td>
+</tr>
+<tr>
+    <td class="bg">孱</td>
+    <td>【chán】孱弱　【càn】孱头</td>
+</tr>
+<tr>
+    <td class="bg">裳</td>
+    <td>【cháng】着我旧时裳　【shang】衣裳</td>
+</tr>
+<tr>
+    <td class="bg">场</td>
+    <td>【cháng】场院 一场（雨）　【chǎng】场合 冷场 场面 场地</td>
+</tr>
+<tr>
+    <td class="bg">嘲</td>
+    <td>【cháo】嘲讽 嘲笑　【zhāo】嘲哳（zhāo zhā）</td>
+</tr>
+<tr>
+    <td class="bg">车</td>
+    <td>【chē】车马 车辆　【jū】（象棋子名称）</td>
+</tr>
+<tr>
+    <td class="bg">称</td>
+    <td>【chèn】称心 对称　【chēng】称呼 称道</td>
+</tr>
+<tr>
+    <td class="bg">澄</td>
+    <td>【chéng】（书面）澄清（问题）　【dèng】（口语）澄清（使液体变清）</td>
+</tr>
+<tr>
+    <td class="bg">铛</td>
+    <td>【chēng】饼铛　【dāng】铛铛（拟声词）</td>
+</tr>
+<tr>
+    <td class="bg">乘</td>
+    <td>【chéng】乘坐 乘机　【shèng】千乘之国 史乘 野乘</td>
+</tr>
+<tr>
+    <td class="bg">匙</td>
+    <td>【chí】汤匙 羹匙　【shi】钥匙</td>
+</tr>
+<tr>
+    <td class="bg">冲</td>
+    <td>【chōng】冲锋 冲击　【chòng】冲床 冲子</td>
+</tr>
+<tr>
+    <td class="bg">臭</td>
+    <td>【chòu】遗臭万年　【xiù】乳臭 铜臭</td>
+</tr>
+<tr>
+    <td class="bg">处</td>
+    <td>【chǔ】（动作义）处罚 处置　【chù】（名词义）处所 妙处</td>
+</tr>
+<tr>
+    <td class="bg">畜</td>
+    <td>【chù】（名物义） 牲畜 畜力　【xù】（动作义）畜养 畜牧 畜产</td>
+</tr>
+<tr>
+    <td class="bg">创</td>
+    <td>【chuàng】创作 创造 创刊 创见　【chuāng】重创 创伤 创口创痕</td>
+</tr>
+<tr>
+    <td class="bg">绰</td>
+    <td>【chuò】绰绰有作 绰号　【chuo】宽绰　【chāo】绰起棍子</td>
+</tr>
+<tr>
+    <td class="bg">伺</td>
+    <td>【cì】伺侯　【sì】伺机环伺</td>
+</tr>
+<tr>
+    <td class="bg">兹</td>
+    <td>【cí】龟兹（Qiūcí西域古国）　【zī】今兹】来兹</td>
+</tr>
+<tr>
+    <td class="bg">跐</td>
+    <td>【cī】登跐了　【cǐ】脚跐两只船</td>
+</tr>
+<tr>
+    <td class="bg">枞</td>
+    <td>【cōng】枞树　【zōng】枞阳（地名）</td>
+</tr>
+<tr>
+    <td class="bg">攒</td>
+    <td>【cuán】攒动 攒射　【zǎn】积攒</td>
+</tr>
+<tr>
+    <td class="bg">撮</td>
+    <td>【cuō】一撮儿盐 撮合 撮要　【zuǒ】一撮毛</td>
+</tr>
+<tr>
+    <td class="bg">处</td>
+    <td>【chǔ】（动词义） 处境 处方 处罚 处置 处于 处治 处事 处世 处分 设身处地 处心积虑 处决　【chù】（名词义）住处 长处 大处 处所 总务处 处长</td>
+</tr>
+<tr>
+    <td class="bg">揣</td>
+    <td>【chuāi】揣在怀里　【chuǎi】揣测 揣度 揣摩</td>
+</tr>
+<tr>
+    <td class="bg">椎</td>
+    <td>【chuí】椎心泣血　【zhuī】脊椎 椎骨 胸椎</td>
+</tr>
+<tr>
+    <th colspan="2">D 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">答</td>
+    <td>【dā】答理 答应 答腔 答讪 答言　【dá】答案 答复 答卷</td>
+</tr>
+<tr>
+    <td class="bg">大</td>
+    <td>【dà】大夫（官名）　【dài】大夫（医生） 山大王</td>
+</tr>
+<tr>
+    <td class="bg">沓</td>
+    <td>【dá】一沓信纸　【tà】杂沓 纷至沓来</td>
+</tr>
+<tr>
+    <td class="bg">逮</td>
+    <td>【dǎi】（口语单用）逮蚊子 逮小偷　【dài】（书面组词）逮捕</td>
+</tr>
+<tr>
+    <td class="bg">单</td>
+    <td>【dán】单独 孤单　【chán】单于　【shán】单县 姓单</td>
+</tr>
+<tr>
+    <td class="bg">当</td>
+    <td>【dāng】当场 当今 当时 当年（均 指已过去） 当日（当初）当面　【dàng】当日（当天） 当年（同一年，月，日，天） 当真 得当 恰当 妥当 典当 当铺 上当 一人当两人用 安步当车</td>
+</tr>
+<tr>
+    <td class="bg">倒</td>
+    <td>【dǎo】颠倒 倒戈 倒嚼　【dào】倒粪 倒药 倒退</td>
+</tr>
+<tr>
+    <td class="bg">叨</td>
+    <td>【dāo】叨唠　【dáo】叨咕　【tāo】叨扰 叨光</td>
+</tr>
+<tr>
+    <td class="bg">提</td>
+    <td>【dī】提防 提溜　【tí】提高 提取</td>
+</tr>
+<tr>
+    <td class="bg">得</td>
+    <td>【dé】得意洋洋　【de】好得很　【děi】得喝水了</td>
+</tr>
+<tr>
+    <td class="bg">的</td>
+    <td>【dí】的当 的确 的证　【dì】目的 中的 有的放矢</td>
+</tr>
+<tr>
+    <td class="bg">钿</td>
+    <td>【diàn】金钿 宝钿　【tián】铜钿（铜钱）</td>
+</tr>
+<tr>
+    <td class="bg">钉</td>
+    <td>【dīng】（名词义）碰钉子　【dìng】（动词义）钉扣子 钉钉子</td>
+</tr>
+<tr>
+    <td class="bg">都</td>
+    <td>【dōu】都来了　【dū】都市 大都（大多）</td>
+</tr>
+<tr>
+    <td class="bg">掇</td>
+    <td>【duō】采掇（拾取，采取义） 掇拾　【duo】撺掇 掂掇</td>
+</tr>
+<tr>
+    <td class="bg">度</td>
+    <td>【duó】忖度 揣度 度德量力　【dù】程度 度量</td>
+</tr>
+<tr>
+    <td class="bg">囤</td>
+    <td>【dùn】粮囤　【tún】囤积 囤聚</td>
+</tr>
+<tr>
+    <td class="bg">垛</td>
+    <td>【duǒ】城墙垛口　【duò】麦垛 垛好（堆放好）</td>
+</tr>
+<tr>
+    <th colspan="2">F 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">发</td>
+    <td>【fà】理发 结发 发型 令人发指　【fā】发表 打发 发端 发窘 发掘</td>
+</tr>
+<tr>
+    <td class="bg">坊</td>
+    <td>【fāng】牌坊 坊巷 白纸坊 坊间　【fáng】粉坊 染坊 作坊 磨坊</td>
+</tr>
+<tr>
+    <td class="bg">分</td>
+    <td>【fēn】区分 分数　【fèn】身分 分子（一员）</td>
+</tr>
+<tr>
+    <td class="bg">缝</td>
+    <td>【féng】缝合 缝纫 缝缀　【fèng】缝隙 裂缝 见缝插针</td>
+</tr>
+<tr>
+    <td class="bg">服</td>
+    <td>【fú】服毒 服药　【fù】量词，也作"付" 一服中药</td>
+</tr>
+<tr>
+    <td class="bg">菲</td>
+    <td>【fēi】芳菲 菲菲　【fěi】菲薄 菲礼 菲仪</td>
+</tr>
+<tr>
+    <td class="bg">否</td>
+    <td>【fǒu】否认 否定 否则 否决　【pǐ】否极泰来 藏否人物</td>
+</tr>
+<tr>
+    <td class="bg">脯</td>
+    <td>【fǔ】果脯 杏脯 鹿脯　【pǔ】胸脯</td>
+</tr>
+<tr>
+    <th colspan="2">G 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">轧</td>
+    <td>【gá】轧账 轧朋友　【yà】轧棉花 轧道机 倾轧　【zhá】轧钢 轧辊</td>
+</tr>
+<tr>
+    <td class="bg">杆</td>
+    <td>【gān】旗杆 栏杆（粗，长）　【gǎn】枪杆 烟杆（细，短）</td>
+</tr>
+<tr>
+    <td class="bg">扛</td>
+    <td>【gāng】力能扛鼎　【káng】扛枪 扛活</td>
+</tr>
+<tr>
+    <td class="bg">膏</td>
+    <td>【gāo】膏腴 膏药 牙膏　【gào】膏点儿油 膏膏笔</td>
+</tr>
+<tr>
+    <td class="bg">咯</td>
+    <td>【gē】（拟声）咯咯 咯吱 咯噔　【kǎ】咯血 咯痰　【lo】（助词）当然咯</td>
+</tr>
+<tr>
+    <td class="bg">搁</td>
+    <td>【gē】搁置 搁浅　【gé】搁不住揉搓</td>
+</tr>
+<tr>
+    <td class="bg">葛</td>
+    <td>【gé】葛巾 瓜葛 葛藤　【gě】姓葛</td>
+</tr>
+<tr>
+    <td class="bg">革</td>
+    <td>【gé】革命 皮革　【jí】病革（病危急）</td>
+</tr>
+<tr>
+    <td class="bg">合</td>
+    <td>【gě】十分之一升　【hé】合作 合计</td>
+</tr>
+<tr>
+    <td class="bg">给</td>
+    <td>【gěi】（口语单用）给……　【jǐ】（书面组词）补给，配给</td>
+</tr>
+<tr>
+    <td class="bg">更</td>
+    <td>【gēng】更换 少不更事 更新 更迭　【gèng】更加 更好</td>
+</tr>
+<tr>
+    <td class="bg">颈</td>
+    <td>【gěng】脖颈子　【jǐng】颈项 颈联</td>
+</tr>
+<tr>
+    <td class="bg">供</td>
+    <td>【gōng】供给 供销 供养 供不应求提供 供求 供需 供应 供需 供稿　【gòng】口供 上供 供认 供词供状供品 供养 供奉 供职 供事</td>
+</tr>
+<tr>
+    <td class="bg">红</td>
+    <td>【gōng】女红（也写作"女工"）　【hóng】红色 红人</td>
+</tr>
+<tr>
+    <td class="bg">枸</td>
+    <td>【gōu】枸橘　【gǒu】枸杞　【jǔ】枸橼</td>
+</tr>
+<tr>
+    <td class="bg">估</td>
+    <td>【gū】估计 估量　【gù】估衣（出售的旧衣，唯一例词）</td>
+</tr>
+<tr>
+    <td class="bg">呱</td>
+    <td>【gū】呱呱（小儿哭声）　【guā】呱呱叫　【guǎ】拉呱儿（闲谈）</td>
+</tr>
+<tr>
+    <td class="bg">骨</td>
+    <td>【gū】骨碌 骨朵（仅此二例）　【gǔ】骨肉 骨干</td>
+</tr>
+<tr>
+    <td class="bg">谷</td>
+    <td>【gǔ】谷子 谷雨　【yù】吐谷浑（族名）</td>
+</tr>
+<tr>
+    <td class="bg">鹄</td>
+    <td>【gǔ】鹄的（靶心）中鹄　【hú】鹄立 鹄望（鹄即天鹅）</td>
+</tr>
+<tr>
+    <td class="bg">括</td>
+    <td>【guā】挺括=　【kuò】概括 总括 括号</td>
+</tr>
+<tr>
+    <td class="bg">莞</td>
+    <td>【guǎn】东莞（在广东）　【wǎn】莞尔一笑</td>
+</tr>
+<tr>
+    <td class="bg">纶</td>
+    <td>【guān】羽扇纶巾　【lún】经纶 涤纶 锦纶</td>
+</tr>
+<tr>
+    <td class="bg">冠</td>
+    <td>【guān】（名物义）加冠 弹冠　【guàn】（动作义）冠军 沐猴而冠</td>
+</tr>
+<tr>
+    <td class="bg">桧</td>
+    <td>【guì】树名　【huì】人名 秦桧</td>
+</tr>
+<tr>
+    <td class="bg">过</td>
+    <td>【guō】姓氏　【guò】经过</td>
+</tr>
+<tr>
+    <th colspan="2">H 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">虾</td>
+    <td>【há】虾蟆　【xiā】对虾</td>
+</tr>
+<tr>
+    <td class="bg">哈</td>
+    <td>【hǎ】哈达 姓哈　【hà】哈什玛　【hā】哈萨克 哈腰</td>
+</tr>
+<tr>
+    <td class="bg">咳</td>
+    <td>【hāi】咳是叹词，表伤感后悔惊异　【ké】咳嗽</td>
+</tr>
+<tr>
+    <td class="bg">汗</td>
+    <td>【hán】可汗 大汗　【hàn】汗水 汗颜</td>
+</tr>
+<tr>
+    <td class="bg">巷</td>
+    <td>【hàng】巷道　【xiàng】街巷</td>
+</tr>
+<tr>
+    <td class="bg">吭</td>
+    <td>【háng】引吭高歌　【kēng】吭声</td>
+</tr>
+<tr>
+    <td class="bg">号</td>
+    <td>【háo】呼号 号叫　【hào】称号 号召</td>
+</tr>
+<tr>
+    <td class="bg">和</td>
+    <td>【hé】和睦 和谐　【hè】应和 和诗　【hú】麻将牌戏用语，意为赢　【huó】和面 和泥　【huò】和药 两和（量词）　【huo】搀和 搅和</td>
+</tr>
+<tr>
+    <td class="bg">貉</td>
+    <td>【hé】（书面）一丘之貉　【háo】（口语）貉绒 貉子</td>
+</tr>
+<tr>
+    <td class="bg">喝</td>
+    <td>【hē】喝水　【hè】喝采 喝令</td>
+</tr>
+<tr>
+    <td class="bg">横</td>
+    <td>【héng】横行 纵横　【hèng】蛮横 横财 横祸 满脸横肉</td>
+</tr>
+<tr>
+    <td class="bg">虹</td>
+    <td>【hóng】（书面组词）彩虹 虹吸　【jiàng】（口语单用）</td>
+</tr>
+<tr>
+    <td class="bg">哄</td>
+    <td>【hōng】哄堂大笑 哄传　【hǒng】哄骗 哄人　【hòng】起哄 一哄而散</td>
+</tr>
+<tr>
+    <td class="bg">划</td>
+    <td>【huá】划船 划算　【huà】划分 计划</td>
+</tr>
+<tr>
+    <td class="bg">晃</td>
+    <td>【huǎng】明晃晃 晃眼 一晃而过　【huàng】摇晃 晃动</td>
+</tr>
+<tr>
+    <td class="bg">会</td>
+    <td>【huì】会合 都会　【kuàì】会计 财会</td>
+</tr>
+<tr>
+    <td class="bg">混</td>
+    <td>【hún】混浊 混活 混人 混水　【hùn】混合 混沌 混充 混淆 混账</td>
+</tr>
+<tr>
+    <td class="bg">豁</td>
+    <td>【huō】豁口　【huò】豁亮 豁达</td>
+</tr>
+<tr>
+    <td class="bg">豁</td>
+    <td>【huō】豁口 豁出去　【huò】豁达 豁亮 豁然</td>
+</tr>
+<tr>
+    <th colspan="2">J 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">奇</td>
+    <td>【jī】奇偶　【qí】奇怪 奇异</td>
+</tr>
+<tr>
+    <td class="bg">缉</td>
+    <td>【jī】通缉 缉拿　【qī】缉鞋口</td>
+</tr>
+<tr>
+    <td class="bg">几</td>
+    <td>【jī】茶几 几案　【jǐ】几何 几个</td>
+</tr>
+<tr>
+    <td class="bg">济</td>
+    <td>【jǐ】济宁 济水 人才济济　【jì】救济 同舟共济 济贫 济世 无济于事 假公济私 接济 缓不济急</td>
+</tr>
+<tr>
+    <td class="bg">纪</td>
+    <td>【jǐ】姓氏　【jì】纪念 纪律</td>
+</tr>
+<tr>
+    <td class="bg">偈</td>
+    <td>【jì】偈语　【jié】（勇武）</td>
+</tr>
+<tr>
+    <td class="bg">系</td>
+    <td>【jì】系紧缰绳 系好缆绳　【xì】系好马匹 系好船只</td>
+</tr>
+<tr>
+    <td class="bg">稽</td>
+    <td>【jī】稽查 无稽之谈 反唇相稽 稽留 稽延　【qǐ】稽首</td>
+</tr>
+<tr>
+    <td class="bg">亟</td>
+    <td>【jí】亟待解决 亟需 亟亟奔走　【qì】亟来闻讯</td>
+</tr>
+<tr>
+    <td class="bg">诘</td>
+    <td>【jí】诘屈聱牙（同佶屈聱牙）　【jié】反诘 盘诘 诘问</td>
+</tr>
+<tr>
+    <td class="bg">茄</td>
+    <td>【jiā】雪茄　【qié】茄子</td>
+</tr>
+<tr>
+    <td class="bg">夹</td>
+    <td>【jiā】夹攻 夹杂　【jiá】夹裤 夹袄</td>
+</tr>
+<tr>
+    <td class="bg">假</td>
+    <td>【jiǎ】真假，假借　【jià】假期 假日</td>
+</tr>
+<tr>
+    <td class="bg">间</td>
+    <td>【jiān】中间 人间 间不容发 间架　【jiàn】间断 间谍 当间 间隔 间或 反间计 间歇 间或 间杂 间作间接 间苗 乘间 相间</td>
+</tr>
+<tr>
+    <td class="bg">将</td>
+    <td>【jiāng】将军 将来　【jiàng】将校 将兵</td>
+</tr>
+<tr>
+    <td class="bg">嚼</td>
+    <td>【jiáo】（口语） 嚼舌 马嚼子　【jué】（书面） 咀嚼　【jiào倒嚼（反刍）</td>
+</tr>
+<tr>
+    <td class="bg">侥</td>
+    <td>【jiǎo】侥幸　【yáo】僬侥（传说中的矮人）</td>
+</tr>
+<tr>
+    <td class="bg">角</td>
+    <td>【jiǎo】角落 号角 口角（嘴角）　【jué】角色 角斗 口角（吵嘴）角逐</td>
+</tr>
+<tr>
+    <td class="bg">脚</td>
+    <td>【jiǎo】根脚 脚本　【jué】脚儿（角儿，脚色）</td>
+</tr>
+<tr>
+    <td class="bg">剿</td>
+    <td>【jiǎo】围剿 剿匪　【chāo】剿袭 剿说</td>
+</tr>
+<tr>
+    <td class="bg">教</td>
+    <td>【jiāo】教书 教给　【jiào】教导 教派</td>
+</tr>
+<tr>
+    <td class="bg">校</td>
+    <td>【jiào】校场 校勘 校正 校样　【xiào】学校 院校 将校</td>
+</tr>
+<tr>
+    <td class="bg">解</td>
+    <td>【jiě】解除 解渴 解嘲 瓦解 解剖　【jiè】解元 押解 解送 起解　【xiè】解县 解不开 浑身解数 姓解</td>
+</tr>
+<tr>
+    <td class="bg">结</td>
+    <td>【jiē】（长出之意）结果 结实　【jié】结网 结合 结果 归根结底</td>
+</tr>
+<tr>
+    <td class="bg">芥</td>
+    <td>【jiè】芥菜 芥末　【gài】芥蓝</td>
+</tr>
+<tr>
+    <td class="bg">藉</td>
+    <td>【jiè】枕藉 慰藉　【jí】狼藉</td>
+</tr>
+<tr>
+    <td class="bg">节</td>
+    <td>【jiē】节骨眼儿（口语）　【jié】节操 节俭 节制 高风亮节</td>
+</tr>
+<tr>
+    <td class="bg">禁</td>
+    <td>【jīn】禁受禁不起 禁用 弱不禁风　【jìn】禁忌 禁锢 禁闭 违禁 禁止</td>
+</tr>
+<tr>
+    <td class="bg">尽</td>
+    <td>【jǐn】尽早 尽可能 尽着三天办事 先尽女同志 尽前边　【jìn】取之不尽 想尽办法 尽心尽力 人尽其才 尽职尽责 尽人皆知</td>
+</tr>
+<tr>
+    <td class="bg">矜</td>
+    <td>【jīn】矜夸 矜持 骄矜　【qín】矜（矛柄）锄镰棘矜</td>
+</tr>
+<tr>
+    <td class="bg">仅</td>
+    <td>【jǐn】仅有　【jìn】士卒仅万（将近万人）</td>
+</tr>
+<tr>
+    <td class="bg">劲</td>
+    <td>【jìn】干劲 劲头 用劲 没劲儿　【jìng】强劲 劲草 刚劲 劲敌劲旅</td>
+</tr>
+<tr>
+    <td class="bg">龟</td>
+    <td>【jūn】龟裂　【guī】乌龟 龟缩　【qiū】龟兹（cí）（西域古国）</td>
+</tr>
+<tr>
+    <td class="bg">咀</td>
+    <td>【jǔ】咀嚼　【zuǐ】嘴</td>
+</tr>
+<tr>
+    <td class="bg">矩</td>
+    <td>【jǔ】矩形　【ju】规矩</td>
+</tr>
+<tr>
+    <td class="bg">据</td>
+    <td>【jū】手头拮据（只此一词）　【jù】盘踞 据实 凭据 据理力争</td>
+</tr>
+<tr>
+    <td class="bg">菌</td>
+    <td>【jūn】细菌 霉菌　【jùn】香菌 菌子（同蕈xùn）</td>
+</tr>
+<tr>
+    <th colspan="2">K 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">卡</td>
+    <td>【kǎ】卡车 卡片 卡通　【qiǎ】关卡 卡子</td>
+</tr>
+<tr>
+    <td class="bg">看</td>
+    <td>【kān】看守 看管　【kàn】看待 看茶</td>
+</tr>
+<tr>
+    <td class="bg">坷</td>
+    <td>【kē】坷垃　【kě】坎坷</td>
+</tr>
+<tr>
+    <td class="bg">壳</td>
+    <td>【ké】（口语）贝壳 脑壳　【qià】（书面）地壳 甲壳，躯壳</td>
+</tr>
+<tr>
+    <td class="bg">可</td>
+    <td>【kě】可恨 可以　【kè】可汗</td>
+</tr>
+<tr>
+    <td class="bg">克</td>
+    <td>【kè】克扣 克服　【kēi】（口语）申斥</td>
+</tr>
+<tr>
+    <td class="bg">空</td>
+    <td>【kōng】领空 空洞 空想 空忙　【kòng】空白 空闲 空额 空隙 空暇 空缺 空房 空地</td>
+</tr>
+<tr>
+    <td class="bg">溃</td>
+    <td>【kuì】溃决 溃败　【hui】（溃同殨 溃脓同脓）</td>
+</tr>
+<tr>
+    <th colspan="2">L 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">蓝</td>
+    <td>【lán】蓝草 蓝图　【lan】苤蓝（piě lan）</td>
+</tr>
+<tr>
+    <td class="bg">烙</td>
+    <td>【lào】烙印 烙铁　【luò】炮（páo）烙</td>
+</tr>
+<tr>
+    <td class="bg">勒</td>
+    <td>【lè】（书面组词）勒令 勒索 勒派悬崖勒马 勒石 勒碑　【lēi】（口语单用）勒紧点儿</td>
+</tr>
+<tr>
+    <td class="bg">肋</td>
+    <td>【lē】肋脦　【lèi】肋骨 鸡肋</td>
+</tr>
+<tr>
+    <td class="bg">擂</td>
+    <td>【léi】擂鼓 擂他一拳　【lèi】擂台 打擂（仅此二词）</td>
+</tr>
+<tr>
+    <td class="bg">累</td>
+    <td>【lèi】（受劳义）劳累　【léi】（多余，连缀，颓丧义）累赘 果实累累 累赘 累累如丧家之犬　【lěi】（牵连，积累，屡次义） 牵累 连篇累牍 连累 累进 罪行累累 累卵 累年</td>
+</tr>
+<tr>
+    <td class="bg">蠡</td>
+    <td>【lí】管窥蠡测 以蠡测海　【lǐ】蠡县 范蠡</td>
+</tr>
+<tr>
+    <td class="bg">俩</td>
+    <td>【liǎ】（口语，不带量词）咱俩 俩人　【liǎng】伎俩</td>
+</tr>
+<tr>
+    <td class="bg">量</td>
+    <td>【liáng】丈量 计量 思量 酌量 端量 量度 量程 量具　【liàng】量入为出 量力而为 量才录用 量体裁衣 量刑 气量 胆量 流量 质量 力量 饭量　【liang】打量 掂量</td>
+</tr>
+<tr>
+    <td class="bg">踉</td>
+    <td>【liáng】跳踉小丑（同跳梁小丑）　【liàng】踉跄 踉锵（走路不稳）</td>
+</tr>
+<tr>
+    <td class="bg">潦</td>
+    <td>【liáo】潦草 潦倒　【lǎo】（书面）积潦（积水）</td>
+</tr>
+<tr>
+    <td class="bg">燎</td>
+    <td>【liáo】星火燎原　【liǎo】燎头发 燎眉毛</td>
+</tr>
+<tr>
+    <td class="bg">淋</td>
+    <td>【lín】淋浴 淋漓 淋巴　【lìn】（过滤义）淋硝 淋盐 淋病</td>
+</tr>
+<tr>
+    <td class="bg">馏</td>
+    <td>【liú】蒸馏　【liù】（口语单用）馏口饭</td>
+</tr>
+<tr>
+    <td class="bg">镏</td>
+    <td>【liú】镏金（涂金）　【liù】金镏（金戒）</td>
+</tr>
+<tr>
+    <td class="bg">碌</td>
+    <td>【liù】碌碡（zhóu）　【lù】庸碌 劳碌</td>
+</tr>
+<tr>
+    <td class="bg">遛</td>
+    <td>【iiú】逗遛　【liù】遛马 遛鸟 遛弯儿</td>
+</tr>
+<tr>
+    <td class="bg">溜</td>
+    <td>【liū】溜达 溜冰 溜须拍马　【liù】溜缝儿 一溜儿</td>
+</tr>
+<tr>
+    <td class="bg">笼</td>
+    <td>【lóng】（名物义）笼子，牢笼　【lǒng】（动作义）笼络 笼统</td>
+</tr>
+<tr>
+    <td class="bg">偻</td>
+    <td>【lóu】佝偻　【lǚ】伛偻</td>
+</tr>
+<tr>
+    <td class="bg">搂</td>
+    <td>【lōu】搂钱 楼枪机　【lǒu】搂抱</td>
+</tr>
+<tr>
+    <td class="bg">露</td>
+    <td>【lù】（书面）露天 露骨　【lòu】（口语）露头 露马脚</td>
+</tr>
+<tr>
+    <td class="bg">捋</td>
+    <td>【lǚ】捋胡子　【luō】捋袖子</td>
+</tr>
+<tr>
+    <td class="bg">绿</td>
+    <td>【lǜ】（口语）绿地 绿菌　【lù】（书面）绿林 鸭绿江</td>
+</tr>
+<tr>
+    <td class="bg">络</td>
+    <td>【luò】络绎 经络　【lào】络子</td>
+</tr>
+<tr>
+    <td class="bg">落</td>
+    <td>【luò】（书面组词）落魄 着落　【lào】（常用口语）落枕 落色　【là】（遗落义）丢三落四 落下</td>
+</tr>
+<tr>
+    <th colspan="2">M 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">抹</td>
+    <td>【mā】抹布 抹桌子 抹下脸　【mǒ】涂抹 抹杀 抹黑 抹脖子　【mò】转弯抹角 抹墙 抹不开</td>
+</tr>
+<tr>
+    <td class="bg">脉</td>
+    <td>【mò】脉脉（仅此一例）　【mài】脉络 山脉</td>
+</tr>
+<tr>
+    <td class="bg">埋</td>
+    <td>【mái】埋伏 埋藏　【mán】埋怨</td>
+</tr>
+<tr>
+    <td class="bg">蔓</td>
+    <td>【màn】（书面）蔓延 枝蔓　【wàn】（口语）瓜蔓 压蔓</td>
+</tr>
+<tr>
+    <td class="bg">氓</td>
+    <td>【máng】流氓　【méng】古指百姓</td>
+</tr>
+<tr>
+    <td class="bg">闷</td>
+    <td>【mēn】闷热 闷头干 闷声闷气　【mèn】愁闷 闷雷 闷闷不乐 闷棍闷葫芦</td>
+</tr>
+<tr>
+    <td class="bg">没</td>
+    <td>【méi】没有　【mò】没收 没落 没世 没齿不忘</td>
+</tr>
+<tr>
+    <td class="bg">蒙</td>
+    <td>【mēng】蒙骗 瞎蒙 蒙头转向　【méng】蒙昧 蒙蔽 蒙头盖脑　【měng】蒙古</td>
+</tr>
+<tr>
+    <td class="bg">眯</td>
+    <td>【mí】眯眼（迷眼）　【mī】眯眼（合眼）</td>
+</tr>
+<tr>
+    <td class="bg">靡</td>
+    <td>【mí】靡费 奢靡　【mǐ】委靡 披靡靡靡之音靡日不思</td>
+</tr>
+<tr>
+    <td class="bg">秘</td>
+    <td>【bì】秘鲁 姓秘　【mì】秘密 秘诀</td>
+</tr>
+<tr>
+    <td class="bg">泌</td>
+    <td>【mì】（口语）分泌　【bì】（书面）泌阳</td>
+</tr>
+<tr>
+    <td class="bg">模</td>
+    <td>【mó】模范 模型　【mú】模具 模样</td>
+</tr>
+<tr>
+    <td class="bg">摩</td>
+    <td>【mó】摩擦，摩挲（用手抚摸）　【mā】摩挲（sa）轻按着并移动</td>
+</tr>
+<tr>
+    <td class="bg">缪</td>
+    <td>【móu】未雨绸缪　【miù】纰缪　【miào】缪姓</td>
+</tr>
+<tr>
+    <th colspan="2">N 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">难</td>
+    <td>【nán】困难 难兄难弟（贬义）　【nàn】责难 难兄难弟（共患难的人）难民 难友 难胞</td>
+</tr>
+<tr>
+    <td class="bg">泥</td>
+    <td>【ní泥泞】泥沼 泥淖　【nì拘泥】泥古 泥子 泥墙</td>
+</tr>
+<tr>
+    <td class="bg">宁</td>
+    <td>【níng】安宁 宁静　【nìng】宁可 姓宁</td>
+</tr>
+<tr>
+    <td class="bg">弄</td>
+    <td>【nòng】玩弄　【lòng】弄堂 里弄</td>
+</tr>
+<tr>
+    <td class="bg">疟</td>
+    <td>【nüè】（书面）疟疾　【yào】（口语）发疟子</td>
+</tr>
+<tr>
+    <td class="bg">娜</td>
+    <td>【nuó】袅娜，婀娜　【nà】（用于人名）安娜。</td>
+</tr>
+<tr>
+    <th colspan="2">P 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">排</td>
+    <td>【pái】排除 排行　【pǎi】排车</td>
+</tr>
+<tr>
+    <td class="bg">迫</td>
+    <td>【pǎi】迫击炮　【pò】逼迫</td>
+</tr>
+<tr>
+    <td class="bg">胖</td>
+    <td>【pán】心广体胖　【pàng】肥胖</td>
+</tr>
+<tr>
+    <td class="bg">刨</td>
+    <td>【páo】刨除 刨土　【bào】刨床 刨冰</td>
+</tr>
+<tr>
+    <td class="bg">炮</td>
+    <td>【páo】炮制，炮格（烙）　【pào】火炮 高炮　【bāo】炮干（烘干）</td>
+</tr>
+<tr>
+    <td class="bg">跑</td>
+    <td>【páo】杭州的虎跑泉　【pǎo】跑步</td>
+</tr>
+<tr>
+    <td class="bg">喷</td>
+    <td>【pēn】喷射 喷泉 喷嚏　【pèn】喷香</td>
+</tr>
+<tr>
+    <td class="bg">劈</td>
+    <td>【pī】劈头盖脑 劈面 劈胸　【pǐ劈开】劈叉</td>
+</tr>
+<tr>
+    <td class="bg">便</td>
+    <td>【pián】便宜 大腹便便　【biàn】方便 便条 便笺 便宜行事</td>
+</tr>
+<tr>
+    <td class="bg">片</td>
+    <td>【piàn】影片儿　【piān】唱片儿</td>
+</tr>
+<tr>
+    <td class="bg">缥</td>
+    <td>【piāo】缥缈　【piǎo】缥—青白色（的丝织品）</td>
+</tr>
+<tr>
+    <td class="bg">撇</td>
+    <td>【piē】撇开 撇弃　【piě】撇嘴，撇置脑后</td>
+</tr>
+<tr>
+    <td class="bg">仆</td>
+    <td>【pū】前仆后继　【pú】仆从</td>
+</tr>
+<tr>
+    <td class="bg">朴</td>
+    <td>【pǔ】俭朴 朴质　【pō】朴刀　【pò】厚朴，朴树　【piáo】朴姓</td>
+</tr>
+<tr>
+    <td class="bg">瀑</td>
+    <td>【pù】瀑布　【bào】瀑河（水名）</td>
+</tr>
+<tr>
+    <td class="bg">曝</td>
+    <td>【pù】一曝十寒　【bào】曝光</td>
+</tr>
+<tr>
+    <th colspan="2">Q 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">栖</td>
+    <td>【qī】两栖，栖息　【xī】栖栖</td>
+</tr>
+<tr>
+    <td class="bg">蹊</td>
+    <td>【qī】蹊跷　【xī】蹊径</td>
+</tr>
+<tr>
+    <td class="bg">稽</td>
+    <td>【qí】稽首　【jī】滑稽</td>
+</tr>
+<tr>
+    <td class="bg">荨</td>
+    <td>【qián】（书面）荨麻　【xún】（口语）荨麻疹</td>
+</tr>
+<tr>
+    <td class="bg">欠</td>
+    <td>【qiàn】欠缺，欠债　【qian】呵欠</td>
+</tr>
+<tr>
+    <td class="bg">抢</td>
+    <td>【qiāng】呼天抢地　【qiǎng】抢夺 争抢</td>
+</tr>
+<tr>
+    <td class="bg">强</td>
+    <td>【qiáng】强渡，强取，强制　【qiǎng】勉强，强迫，强词夺理强人所难　【jiàng】倔强 强嘴</td>
+</tr>
+<tr>
+    <td class="bg">呛</td>
+    <td>【qiāng】呛着了　【qiàng】油烟呛人</td>
+</tr>
+<tr>
+    <td class="bg">戗</td>
+    <td>【qiāng】戗水 戗风 说戗了　【qiàng】真够戗 戗面馒头</td>
+</tr>
+<tr>
+    <td class="bg">悄</td>
+    <td>【qiāo】悄悄儿的 悄悄话　【qiǎo】悄然，悄寂</td>
+</tr>
+<tr>
+    <td class="bg">翘</td>
+    <td>【qiào】（口语）翘尾巴　【qiáo】翘首，连翘</td>
+</tr>
+<tr>
+    <td class="bg">切</td>
+    <td>【qiē】切磋，切割　【qiè】急切，切实</td>
+</tr>
+<tr>
+    <td class="bg">趄</td>
+    <td>【qiè】趄坡儿　【qie】趔趄　【jū】趑趄</td>
+</tr>
+<tr>
+    <td class="bg">亲</td>
+    <td>【qīn】亲近 亲密　【qìng】亲家</td>
+</tr>
+<tr>
+    <td class="bg">曲</td>
+    <td>【qū】神曲，大曲，弯曲　【qǔ】曲调，曲艺，曲牌</td>
+</tr>
+<tr>
+    <td class="bg">雀</td>
+    <td>【qiāo】雀子　【qiǎo】雀盲眼　【què】雀斑 雀跃 麻雀</td>
+</tr>
+<tr>
+    <td class="bg">圈</td>
+    <td>【quān】圈点 圈占 圈套 圈阅　【juān】圈牛 圈马　【juàn】猪圈 羊圈</td>
+</tr>
+<tr>
+    <td class="bg">阙</td>
+    <td>【quē】阙如 阙疑　【què】宫阙</td>
+</tr>
+<tr>
+    <th colspan="2">R 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">任</td>
+    <td>【rén】任丘（地名） 任姓　【rèn】任务，任命</td>
+</tr>
+<tr>
+    <th colspan="2">S 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">散</td>
+    <td>【sǎn】懒散 零散（不集中，分散）散兵游勇 散居 散漫 散记 松散 散射 散曲 散架　【sàn】散布 散失 散发 分散 散播发散 散传单 散心 解散 散摊子</td>
+</tr>
+<tr>
+    <td class="bg">丧</td>
+    <td>【sāng】丧葬 丧服 丧乱 丧钟　【sàng】丧失 丧权 丧气 丧魂落魄　【sang】哭丧着脸</td>
+</tr>
+<tr>
+    <td class="bg">色</td>
+    <td>【sè】（书面）色彩 色泽　【shǎi】（口语）落色，颜色</td>
+</tr>
+<tr>
+    <td class="bg">塞</td>
+    <td>【sè】（书面，动作义）堵塞 阻塞　【sāi】（口语，名动义）活塞 塞车　【sài】塞翁失马 边塞 塞外</td>
+</tr>
+<tr>
+    <td class="bg">煞</td>
+    <td>【shā】煞尾 收煞 煞笔 煞风景　【shà】煞白 恶煞 煞气 煞费苦心 煞有介事</td>
+</tr>
+<tr>
+    <td class="bg">厦</td>
+    <td>【shà】广厦 大厦　【xià】厦门 噶厦</td>
+</tr>
+<tr>
+    <td class="bg">杉</td>
+    <td>【shān】（书面）红杉，水杉　【shā】（口语）杉篙，杉木</td>
+</tr>
+<tr>
+    <td class="bg">苫</td>
+    <td>【shàn】（动作义）苫屋草 苫布　【shān】（名物义）草苫子</td>
+</tr>
+<tr>
+    <td class="bg">汤</td>
+    <td>【shāng】河水汤汤 浩浩汤汤　【tāng】汤水 热汤 赴汤蹈火</td>
+</tr>
+<tr>
+    <td class="bg">折</td>
+    <td>【shé】折本　【shē】折腾　【shé】折合</td>
+</tr>
+<tr>
+    <td class="bg">舍</td>
+    <td>【shě】舍弃 抛舍　【shè】校舍 退避三舍</td>
+</tr>
+<tr>
+    <td class="bg">拾</td>
+    <td>【shè】拾级而上　【shí】拾取 拾掇 拾遗 拾人牙慧</td>
+</tr>
+<tr>
+    <td class="bg">什</td>
+    <td>【shén】什么　【shí】什物 什锦</td>
+</tr>
+<tr>
+    <td class="bg">葚</td>
+    <td>【shèn】（书面）桑葚　【rèn】（口语）桑葚儿</td>
+</tr>
+<tr>
+    <td class="bg">识</td>
+    <td>【shí】识别 识字　【zhì】标识 博闻强识</td>
+</tr>
+<tr>
+    <td class="bg">似</td>
+    <td>【shì】似的　【sì】相似</td>
+</tr>
+<tr>
+    <td class="bg">属</td>
+    <td>【shǔ】隶属 归属 亲属 属实 属相　【zhǔ】属意 属望 前后相属 属文</td>
+</tr>
+<tr>
+    <td class="bg">熟</td>
+    <td>【shóu】（口语） 庄稼熟了 饭熟了　【shú】熟悉 熟谙 熟稔 熟思 熟习</td>
+</tr>
+<tr>
+    <td class="bg">刷</td>
+    <td>【shuā】洗刷 粉刷 刷新　【shuà】脸色刷白</td>
+</tr>
+<tr>
+    <td class="bg">说</td>
+    <td>【shuì】游说 说客　【shuō】说话 说辞</td>
+</tr>
+<tr>
+    <td class="bg">数</td>
+    <td>【shuò】（副词） 数见不鲜　【shǔ】（动词）数落 数数（shù）　【shù】（名词）数字 数目</td>
+</tr>
+<tr>
+    <td class="bg">忪</td>
+    <td>【sōng】睡眼惺忪　【zhóng】怔忪（恐惧）</td>
+</tr>
+<tr>
+    <td class="bg">宿</td>
+    <td>【sù】宿舍 宿愿 宿志 宿将 耆宿 宿舍 宿主　【xiǔ】三天两宿 半宿　【xiù】星宿 二十八宿</td>
+</tr>
+<tr>
+    <td class="bg">遂</td>
+    <td>【suí】半身不遂 毛遂　【suì】遂心如意 天遂人愿 遂意</td>
+</tr>
+<tr>
+    <th colspan="2">T 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">踏</td>
+    <td>【tā】踏实　【tà】踏步 践踏 踏勘 踏看 踏青</td>
+</tr>
+<tr>
+    <td class="bg">沓</td>
+    <td>【tà】杂沓 复沓 纷至沓来　【dá】一沓子</td>
+</tr>
+<tr>
+    <td class="bg">趟</td>
+    <td>【tāng】趟水（也写作：蹚水）　【tàng】走一趟 半趟街</td>
+</tr>
+<tr>
+    <td class="bg">苔</td>
+    <td>【tái】（书面）苍苔 苔藓　【tāi】（口语）青苔 舌苔</td>
+</tr>
+<tr>
+    <td class="bg">调</td>
+    <td>【tiáo】调皮 调配（调和配合）调解 调剂 调侃 调唆 调谑 调羹 调停　【diào】调换 调配（调动分配）调防 调遣 曲调 调换 调集 调拨 调度</td>
+</tr>
+<tr>
+    <td class="bg">帖</td>
+    <td>【tiē】妥帖 伏帖 服服帖帖　【tiě】帖子 请帖 字帖 庚帖　【tiè】碑帖 法帖 习字帖 画帖</td>
+</tr>
+<tr>
+    <td class="bg">通</td>
+    <td>【tōng】通知 通过 交通　【tòng】挨了一通说</td>
+</tr>
+<tr>
+    <td class="bg">吐</td>
+    <td>【tǔ】谈吐 吐露 吐字 吐故纳新　【tù】吐沫 吐血 呕吐 上吐下泻</td>
+</tr>
+<tr>
+    <td class="bg">褪</td>
+    <td>【tuì】褪色 褪毛　【tùn】褪去 褪着手 褪套儿</td>
+</tr>
+<tr>
+    <td class="bg">拓</td>
+    <td>【tuò】拓荒 拓宽 开拓　【tà】拓本 拓片</td>
+</tr>
+<tr>
+    <th colspan="2">W 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">瓦</td>
+    <td>【wǎ】瓦当 瓦蓝 砖瓦　【wà】瓦刀 屋瓦（wǎ）</td>
+</tr>
+<tr>
+    <td class="bg">圩</td>
+    <td>【wéi】圩子　【xū】圩场</td>
+</tr>
+<tr>
+    <td class="bg">委</td>
+    <td>【wēi】委蛇=逶迤　【wěi】委曲（qū） 委屈（qu）</td>
+</tr>
+<tr>
+    <td class="bg">尾</td>
+    <td>【wěi】尾巴　【yǐ】马尾</td>
+</tr>
+<tr>
+    <td class="bg">尉</td>
+    <td>【wèi】尉官 尉姓　【yù】尉迟（姓） 尉犁（地名）</td>
+</tr>
+<tr>
+    <td class="bg">遗</td>
+    <td>【wèi】遗之千金（赠送）　【yí】遗失 遗憾 遗嘱</td>
+</tr>
+<tr>
+    <td class="bg">纹</td>
+    <td>【wén】花纹 纹饰 纹理 纹丝　【wèn】裂纹</td>
+</tr>
+<tr>
+    <td class="bg">乌</td>
+    <td>【wū】乌黑　【wù】乌拉草（la 草名）</td>
+</tr>
+<tr>
+    <th colspan="2">X 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">吓</td>
+    <td>【xiā】吓唬 吓人　【hè】威吓 恐吓 恐吓 恫吓</td>
+</tr>
+<tr>
+    <td class="bg">鲜</td>
+    <td>【xiān】鲜卑（古代北方民族） 鲜美 鲜明 鲜艳　【xiǎn】鲜见 鲜有 鲜为人知</td>
+</tr>
+<tr>
+    <td class="bg">纤</td>
+    <td>【xiān】纤长 纤毫 纤细 纤尘 纤弱 十指纤纤　【qiàn】纤夫 纤绳 纤手（仅此三 词）</td>
+</tr>
+<tr>
+    <td class="bg">相</td>
+    <td>【xiāng】相当 相反　【xiàng】相册 相片 相机</td>
+</tr>
+<tr>
+    <td class="bg">行</td>
+    <td>【xíng】举行 发行　【háng】行市，行伍　【hàng】树行子　【héng】道行</td>
+</tr>
+<tr>
+    <td class="bg">省</td>
+    <td>【xǐng】反省 省亲　【shěng】省份 省略</td>
+</tr>
+<tr>
+    <td class="bg">削</td>
+    <td>【xuē】（书面） 剥削 瘦削　【xiāo】（口语） 切削 削皮</td>
+</tr>
+<tr>
+    <td class="bg">血</td>
+    <td>【xuè】（书面组词）贫血 心血 血液 血统 血型 血型 血性 血迹 血泪 血泊 血气 血洗 血汗 血债 血晕　【xiě】（口语常用）鸡血，流了点血 血淋淋 血糊糊</td>
+</tr>
+<tr>
+    <td class="bg">熏</td>
+    <td>【xūn】熏染 熏陶 熏风 熏制　【xùn】被煤气熏着了（中毒）</td>
+</tr>
+<tr>
+    <td class="bg">兴</td>
+    <td>【xīng】新兴 复兴 兴起 兴办 兴修 不兴胡说 兴许 兴盛 兴师动众　【xìng】兴趣 兴致 豪兴 助兴败兴</td>
+</tr>
+<tr>
+    <td class="bg">旋</td>
+    <td>【xuán】盘旋 回旋 旋即 凯旋 旋转 旋即　【xuàn】旋风 旋根车轴 旋吃旋做</td>
+</tr>
+<tr>
+    <th colspan="2">Y 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">哑</td>
+    <td>【yā】哑哑（象声词）学语　【yǎ】哑然 哑场 哑谜 哑然失笑</td>
+</tr>
+<tr>
+    <td class="bg">殷</td>
+    <td>【yān】殷红　【yīn】殷实 殷勤 殷切 殷商　【yǐn】殷殷（象声词，形容雷声）</td>
+</tr>
+<tr>
+    <td class="bg">咽</td>
+    <td>【yān】咽喉　【yàn】狼吞虎咽 咽气　【yè】呜咽 哽咽</td>
+</tr>
+<tr>
+    <td class="bg">约</td>
+    <td>【yāo】用称约 约斤肉　【yuē】预约 制约 条约 特约 约束</td>
+</tr>
+<tr>
+    <td class="bg">钥</td>
+    <td>【yào】（口语）钥匙　【yuè】（书面）锁钥</td>
+</tr>
+<tr>
+    <td class="bg">掖</td>
+    <td>【yē】掖进去　【yè】扶掖 奖掖</td>
+</tr>
+<tr>
+    <td class="bg">耶</td>
+    <td>【yē】耶和华 耶稣　【yé】（语气助词）是耶非耶</td>
+</tr>
+<tr>
+    <td class="bg">叶</td>
+    <td>【yè】叶落归根 叶公好龙　【xié】叶韵（和谐义）</td>
+</tr>
+<tr>
+    <td class="bg">艾</td>
+    <td>【yì】自怨自艾 惩艾　【ài】方兴未艾 艾草</td>
+</tr>
+<tr>
+    <td class="bg">迤</td>
+    <td>【yí】逶迤　【yǐ】迤逦</td>
+</tr>
+<tr>
+    <td class="bg">应</td>
+    <td>【yīng】应届 应许 应声 应该 应允 应名儿 应分　【yìng】应付 应承 应运 应变 应从 应对 应付 应和 应急 应景 应聘 应时 应诺 应用 应验 应征 应邀 应招 应诊 应制 应接不暇</td>
+</tr>
+<tr>
+    <td class="bg">佣</td>
+    <td>【yōng】雇佣 佣工 女佣　【yòng】佣金 佣钱</td>
+</tr>
+<tr>
+    <td class="bg">熨</td>
+    <td>【yù】熨贴　【yùn】熨烫</td>
+</tr>
+<tr>
+    <td class="bg">与</td>
+    <td>【yǔ】给与 与其 与人为善 与日俱增 与虎谋皮　【yù】参与 与会 与闻　【yú】同"欤"</td>
+</tr>
+<tr>
+    <td class="bg">吁</td>
+    <td>【yù】呼吁 吁请 吁求　【yū】吆喝牲口（象形词）　【xū】长吁短叹 气喘吁吁</td>
+</tr>
+<tr>
+    <td class="bg">予</td>
+    <td>【yú】（文言中：我）予取予求　【yǔ】授予 予以</td>
+</tr>
+<tr>
+    <td class="bg">晕</td>
+    <td>【yūn】晕倒 头晕 晕厥　【yùn】月晕 日晕 晕车 晕船 晕机 晕针 晕场 红晕</td>
+</tr>
+<tr>
+    <th colspan="2">Z 部多音字大全</th>
+</tr>
+<tr>
+    <td class="bg">咋</td>
+    <td>【zǎ】咋办 咋样　【zé】咋舌　【zhā】咋唬 咋呼</td>
+</tr>
+<tr>
+    <td class="bg">载</td>
+    <td>【zǎi】记载 登载 转载 千载难逢 三年五载 刊载　【zài】装载 载运 载歌载舞 载体 载荷 载重 怨声载道 风雪载途</td>
+</tr>
+<tr>
+    <td class="bg">脏</td>
+    <td>【zāng】肮脏　【zàng】心脏 内脏 脏腑</td>
+</tr>
+<tr>
+    <td class="bg">择</td>
+    <td>【zé】选择 抉择　【zhái】择菜 择席 择不开（仅此三词）</td>
+</tr>
+<tr>
+    <td class="bg">扎</td>
+    <td>【zhá】挣扎　【zhā】扎根 扎实 扎堆 扎眼 扎营　【zā】扎彩（捆束义） 一扎啤酒 扎腰带</td>
+</tr>
+<tr>
+    <td class="bg">轧</td>
+    <td>【zhá】轧钢 轧辊（挤制义）　【yà】倾轧 轧花 轧场（碾压义）</td>
+</tr>
+<tr>
+    <td class="bg">炸</td>
+    <td>【zhá炸糕】油炸　【zhà炸药】炸弹</td>
+</tr>
+<tr>
+    <td class="bg">粘</td>
+    <td>【zhān】（动词义）粘贴 粘连　【nián】（形容词）粘稠 粘土 粘液</td>
+</tr>
+<tr>
+    <td class="bg">涨</td>
+    <td>【zhǎng】涨落 高涨 涨潮 涨幅 物价上涨 水涨船高 暴涨　【zhàng】泡涨 头昏脑涨 脸涨通红</td>
+</tr>
+<tr>
+    <td class="bg">占</td>
+    <td>【zhān】占卜 占卦　【zhàn】占据 攻占 强占</td>
+</tr>
+<tr>
+    <td class="bg">爪</td>
+    <td>【zhǎo】爪牙 鹰爪 张牙舞爪　【zhuǎ】爪子 爪儿</td>
+</tr>
+<tr>
+    <td class="bg">着</td>
+    <td>【zháo】着急 着迷 着凉 着忙 着魔 着三不着两　【zhuó】着落 着重 着手 着力 着装 着笔 着实 着想 着眼 着意 着陆　【zhāo】失着 着数 高着（招）</td>
+</tr>
+<tr>
+    <td class="bg">蜇</td>
+    <td>【zhē】蜜蜂蜇人 切洋葱蜇眼睛　【zhé】海蜇</td>
+</tr>
+<tr>
+    <td class="bg">症</td>
+    <td>【zhēng】症结　【zhèng】病症 症状 症候</td>
+</tr>
+<tr>
+    <td class="bg">正</td>
+    <td>【zhēng】正月 新正 正旦（农历正月初一）　【zhèng】正常 正旦（戏中称女主角）</td>
+</tr>
+<tr>
+    <td class="bg">殖</td>
+    <td>【zhí】繁殖 殖民　【shi】骨殖</td>
+</tr>
+<tr>
+    <td class="bg">只</td>
+    <td>【zhī】只身前往 只言片语　【zhǐ】只顾 只见 只有</td>
+</tr>
+<tr>
+    <td class="bg">中</td>
+    <td>【zhōng】中国 人中（穴位）　【zhòng】中奖 中靶 看中 中选</td>
+</tr>
+<tr>
+    <td class="bg">种</td>
+    <td>【zhǒng】种类 种族 点种（种子）　【zhòng】耕种 种植 点种（播种）</td>
+</tr>
+<tr>
+    <td class="bg">轴</td>
+    <td>【zhóu】画轴 轮轴 轴承 轴线　【zhòu】大轴戏 压轴戏</td>
+</tr>
+<tr>
+    <td class="bg">著</td>
+    <td>【zhù】著名 著述　【zhe】同"着"助词　【zhúo】同"着"动词 穿著 附著</td>
+</tr>
+<tr>
+    <td class="bg">拽</td>
+    <td>【zhuāi】拽皮球 拽东西　【zhuài】拽住不放 生拉硬拽</td>
+</tr>
+<tr>
+    <td class="bg">转</td>
+    <td>【zhuǎn】转运 转折 转圜 转身　【zhuàn】转动 转速 转悠</td>
+</tr>
+<tr>
+    <td class="bg">幢</td>
+    <td>【zhuàng】一幢楼房　【chuáng】经幢</td>
+</tr>
+<tr>
+    <td class="bg">缴</td>
+    <td>【zhuó】缴：系在箭上的丝绳，射鸟用　【jiǎo】上缴 收缴 缴纳 缴械</td>
+</tr>
+<tr>
+    <td class="bg">综</td>
+    <td>【zèng】织机零件之一　【zōng】综合 错综</td>
+</tr>
+<tr>
+    <td class="bg">仔</td>
+    <td>【zī】仔肩（书面语：责任，负担）　【zǐ】仔细 仔密 仔鸡 仔猪 仔兽　【zǎi】打工仔 华仔 胖仔</td>
+</tr>
+<tr>
+    <td class="bg">钻</td>
+    <td>【zuān】钻探 钻孔　【zuàn】钻床 钻杆</td>
+</tr>
+<tr>
+    <td class="bg">柞</td>
+    <td>【zuò】柞蚕 柞绸　【zhà】柞水（在陕西）</td>
+</tr>
+<tr>
+    <td class="bg">作</td>
+    <td>【zuō】作坊 铜器作　【zuò】工作 习作</td>
+</tr>

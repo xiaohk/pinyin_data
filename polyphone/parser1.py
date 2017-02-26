@@ -2,7 +2,7 @@ import requests
 import re
 
 # Parse from the HTML file
-with open("polyphone1.html", 'r') as fp:
+with open("polyphone1.html.txt", 'r') as fp:
     with open("raw1.txt", 'w') as out_fp:
         lines = fp.readlines()
         out = []
