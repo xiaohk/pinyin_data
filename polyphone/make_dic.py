@@ -1,5 +1,6 @@
 import re
-from json import load
+from json import load, dump
+from yaml import dump as ydump
 
 """
 Parse from the text file to data structure
@@ -18,6 +19,7 @@ with open("../data/pinyin.json", 'r') as data:
     pinyin_dict = load(data)
 
 def add_wrod(pinyin, word, out_dict):
+    print(word)
     # Find the character having that pronunciation
     target_char = ''
     target_index = 0
@@ -43,23 +45,18 @@ def add_wrod(pinyin, word, out_dict):
     else:
         out_dict[target_char][pinyin][1].append(word)
 
-    print(out_dict)
-
-
-out_dict = dict()
-line = "niù : 执拗, 拗不过\n"
-formated = list(filter(None, re.split(':|,|\s', line)))
-for word in formated[1:]:
-    add_wrod(formated[0], word, out_dict)
-print(out_dict)
-
-"""
+# Make the dictionary
 with open("raw1.txt", 'r') as fp:
-    with open("polyphone1.txt", 'w') as out_fp:
-        out_dict = {}
-        lines = fp.readliens()
-        for line in lines:
-            formated = list(filter(None, re.split(':|,|\s', line)))
-            for word in formated[1:]:
-                 add_wrod(formated[0], words, out_dict)
-"""
+    out_dict = {}
+    lines = fp.readlines()
+    for line in lines:
+        formated = list(filter(None, re.split(':|,|\s', line)))
+        for word in formated[1:]:
+             add_wrod(formated[0], word, out_dict)
+
+# Dump the dictionary into yaml and json
+with open("polyphone.yaml", 'w') as fp:
+    ydump(out_dict, fp, allow_unicode = True)
+
+with open("polyphone.json", 'w') as fp:
+    dump(out_dict, fp, indent = 4, ensure_ascii = False)

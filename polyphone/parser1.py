@@ -1,3 +1,4 @@
+import requests
 import re
 
 # Parse from the HTML file
