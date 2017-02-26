@@ -15,7 +15,7 @@ Data structure is designed as the following:
             - Third innter list contains all words where the hanzi is the last 
             character and uses the 'key' prounciation
 """
-with open("../data/pinyin.json", 'r') as data:
+with open("../pinyin/pinyin.json", 'r') as data:
     pinyin_dict = load(data)
 
 def add_wrod(pinyin, word, out_dict):
@@ -46,7 +46,7 @@ def add_wrod(pinyin, word, out_dict):
         out_dict[target_char][pinyin][1].append(word)
 
 # Make the dictionary
-with open("raw1.txt", 'r') as fp:
+with open("../data/raw1.txt", 'r') as fp:
     out_dict = {}
     lines = fp.readlines()
     for line in lines:
@@ -55,8 +55,8 @@ with open("raw1.txt", 'r') as fp:
              add_wrod(formated[0], word, out_dict)
 
 # Dump the dictionary into yaml and json
-with open("polyphone.yaml", 'w') as fp:
+with open("../polyphone/polyphone.yaml", 'w') as fp:
     ydump(out_dict, fp, allow_unicode = True)
 
-with open("polyphone.json", 'w') as fp:
+with open("../polyphone/polyphone.json", 'w') as fp:
     dump(out_dict, fp, indent = 4, ensure_ascii = False)
