@@ -1,9 +1,15 @@
 from json import load
-from yaml import load as lld
+from yaml import load as yload
 import time
 
-with open("data/pinyin.json", 'r') as data_fp:
+with open("pinyin/pinyin.json", 'r') as data_fp:
     hanzi = load(data_fp)
+
+print(hanzi["說"])
+
+
+with open("pinyin/pinyin.yaml", 'r') as data_fp:
+    hanzi = yload(data_fp)
 
 print(hanzi["說"])
 

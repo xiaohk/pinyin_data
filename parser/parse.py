@@ -32,7 +32,7 @@ def update_pinyin(uni, pinyin_list, result):
 
 def parse_pinyin():
     # Read from the file
-    with open("data/Unihan_Readings.txt", 'r') as fp:
+    with open("../data/Unihan_Readings.txt", 'r') as fp:
         lines = fp.readlines()
         for line in lines:
             words = line.split()
@@ -69,9 +69,10 @@ result = parse_pinyin()
                 
 # Dump the dictionary
 if args.yaml:
-    with open("pinyin/pinyin.yaml", 'w') as stream:
+    with open("../pinyin/pinyin.yaml", 'w') as stream:
         yaml_dump(result, stream, allow_unicode = True)
 
 if (not args.json and not args.yaml and not args.debug) or args.json:
-    with open("pinyin/pinyin.json", 'w') as stream:
-        json_dump(result, stream, indent=4, ensure_ascii = False)
+    with open("../pinyin/pinyin.json", 'w') as stream:
+        json_dump(result, stream, indent=4, ensure_ascii = False,
+                 sort_keys = True)

@@ -59,4 +59,4 @@ with open("../polyphone/polyphone.yaml", 'w') as fp:
     ydump(out_dict, fp, allow_unicode = True)
 
 with open("../polyphone/polyphone.json", 'w') as fp:
-    dump(out_dict, fp, indent = 4, ensure_ascii = False)
+    dump(out_dict, fp, indent = 4, ensure_ascii = False, sort_keys = True)
